@@ -11,7 +11,7 @@ My hands-on experience in healthcare has driven my passion for cybersecurity, pa
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Non-Profit Security Awareness Training                 | <a href="https://ccdallas.github.io/resume/project1.html">Detection Lab</a>|
+| Non-Profit Security Awareness Training        | <a href="https://ccdallas.github.io/resume/project1.html">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
@@ -29,30 +29,30 @@ My hands-on experience in healthcare has driven my passion for cybersecurity, pa
 
 ### Endpoint
 <div>
-    <img src="https://img.shields.io/badge/-BitDefender_for_Endpoint-00A4EF?&style=for-the-badge&logo=BitDefender&logoColor=white" />
+    <img src="https://img.shields.io/badge/-BitDefender_EDR-00A4EF?&style=for-the-badge&logo=BitDefender&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_for_Endpoint-4B275F?&style=for-the-badge&logo=Microsoft&logoColor=white" /> 
 </div>
 
 ### SIEM
 <div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Fortinet-005571?&style=for-the-badge&logo=Fortinet&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Fortinet-EF3B2D?&style=for-the-badge&logo=Fortinet&logoColor=white" />
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-HealthIT-CCB800?&style=for-the-badge&logo=Kennesaw_State_University&logoColor=yellow" />
-<img src="https://img.shields.io/badge/-Security%2B%20In%20Progress-EF3B2D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Health_IT-EF3B2D?&style=for-the-badge&logo=Kennesaw_State_University&logoColor=white" />
+   <img src="https://img.shields.io/badge/-IT_Security-CCB800?&style=for-the-badge&logo=KSU&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Security%2B%20In%20Progress-EF3B2D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Pentest%2B%20In%20Progress-CCB800?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 </div>
 
 ## Education
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-MSIT-007ACC?&style=for-the-badge&logo=Kennesaw_State_University&logoColor=yellow" />
-<img src="https://img.shields.io/badge/-PhD%2B%20In%20Progress-000080?&style=for-the-badge&logoColor=Capitol_Technology_University&logoColor=white" />
+   <img src="https://img.shields.io/badge/-MSIT-007ACC?&style=for-the-badge&logo=Kennesaw_State_University&logoColor=yellow" />
+   <img src="https://img.shields.io/badge/-PhD_Offensive_Cyber_Engineering_In%20Progress-000080?&style=for-the-badge&logoColor=Capitol_Technology_University&logoColor=white" />
+
 ## Projects
 - Detection Lab
 - SOC Automation Project
