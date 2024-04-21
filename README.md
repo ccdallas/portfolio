@@ -43,12 +43,16 @@ My hands-on experience in healthcare has driven my passion for cybersecurity, pa
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-HealthIT%2B-007ACC?&style=for-the-badge&logo=Kennesaw_State_University&logoColor=yellow" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-HealthIT-CCB800?&style=for-the-badge&logo=Kennesaw_State_University&logoColor=yellow" />
+<img src="https://img.shields.io/badge/-Security%2B%20In%20Progress-EF3B2D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 
+## Education
+[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<div>
+<img src="https://img.shields.io/badge/-MSIT-007ACC?&style=for-the-badge&logo=Kennesaw_State_University&logoColor=yellow" />
+<img src="https://img.shields.io/badge/-PhD%2B%20In%20Progress-000080?&style=for-the-badge&logoColor=Capitol_Technology_University&logoColor=white" />
 ## Projects
 - Detection Lab
 - SOC Automation Project
