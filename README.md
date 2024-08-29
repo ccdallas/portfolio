@@ -1,22 +1,31 @@
 # Hello, I'm CHAUNDA
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+Healthcare & Sports Technology Advocate | Cybersecurity Expert | SOC I Analyst | Ph.D. Student | Data-Driven Innovation
 
-Welcome! With 20+ years in healthcare IT and cybersecurity, I specialize in data protection and customer success. From NASA to DeepScribe, I’ve led impactful initiatives. Explore my portfolio for case studies and certifications.
+<a href="https://linkedin.com/in/chaundacdallas/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
+    🔹 15+ years of experience in nursing and health technology
+    🔹 3+ years of hands-on IT and cybersecurity expertise
+    🔹 Master's in IT & Cybersecurity and Graduate Certificate in Health Information Technology
+    🔹 Passionate about securing athletes' medical records and improving wearable technology
+    🔹 Dedicated to leveraging AI to enhance athletic performance and ensure cyber hygiene for spectators in sports stadiums
+
+As a cybersecurity expert, I specialize in advancing measures to protect patient data and drive innovation in sports technology. My work integrates a deep understanding of healthcare operations with cutting-edge IT solutions, including AI and machine learning, to support and enhance athlete and spectator safety.
 
 ## Objective
 
-My hands-on experience in healthcare has driven my passion for cybersecurity, particularly in healthcare settings. Now, I’m keen to transition into roles such as Healthcare Cybersecurity Analyst or Engineer. With a background in healthcare IT, I’m committed to ensuring the security of medical data and systems.
+I aim to leverage my extensive experience in healthcare and cybersecurity to drive innovation in sports technology. My goal is to protect sensitive patient and athlete data while advancing wearable tech and AI-driven solutions that enhance athletic performance and ensure the safety and cyber hygiene of all stakeholders in the sports industry. I am committed to merging my expertise in health technology with cutting-edge IT practices to create secure, efficient, and impactful solutions.
 
-## Skills
+## Skills & Associated Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Non-Profit Security Awareness Training        | <a href="https://ccdallas.github.io/resume/project1.html">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Healthcare Data Security Implementation       | <a href="https://ccdallas.github.io/resume/project1.html">Healthcare Data Security Toolkit</a>|
+| Wearable Device Vulnerability Assessment | Wearable Tech Security Enhancements
+| AI-Driven Patient Data Protection       | AI-Based Healthcare Assistant|
+| Athlete Performance Optimization through AI     | AI-Powered Performance Analytics|
+| Stadium Cybersecurity Protocols                | Cyber Hygiene for Sports Stadiums|
+| Incident Response Strategy Development | Incident Response Simulation Platform|
+| HealthTech System Integration | HealthTech Integration Projects|
 
 ## Tools 
 
@@ -52,7 +61,3 @@ My hands-on experience in healthcare has driven my passion for cybersecurity, pa
 <div>
    <img src="https://img.shields.io/badge/-MSIT-007ACC?&style=for-the-badge&logo=Kennesaw_State_University&logoColor=yellow" />
    <img src="https://img.shields.io/badge/-PhD_Offensive_Cyber_Engineering_In%20Progress-000080?&style=for-the-badge&logoColor=Capitol_Technology_University&logoColor=white" />
-
-## Projects
-- Detection Lab
-- SOC Automation Project
